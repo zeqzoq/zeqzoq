@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome 👋
+
+Just wanna make this place as a storage to put all the files in my career.
+I'm just starting out to become a ctf player. Just gonna put all the writeup that i have done (if I'm not lazy).
+I'm known as zeqzoq or worstctfplayer.
 
 <!--
 **zeqzoq/zeqzoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
